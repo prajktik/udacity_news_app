@@ -1,0 +1,22 @@
+<resources>
+	<string name="app_name">The Guardian</string>
+	<string name="title">Article Title</string>
+	<string name="author">Article Contributor</string>
+	<string name="section">SectionName</string>
+	<string name="date">2017.10.16/10:00</string>
+	
+	<string name="news">"News"</string>
+	<string name="no_internet_connection">Network not found. Please connect your device to internet!</string>
+	<string name="empty_view_text">No news found, please insert another keyword to search! </string>
+	
+	<string name="action_search">Search</string>
+	<string name="search_hint">Enter keywords</string>
+	
+	<string name="base_url"
+			translatable="false">https://content.guardianapis.com/search?q=</string>
+	<string name="url_tags"
+			translatable="false"><![CDATA[&tags=news]]></string>
+	<string name="url_end"
+			translatable="false"><![CDATA[&use-date=published&order-by=newest&show-tags=contributor&show-fields=thumbnail,short-url&api-key=test]]></string>
+
+</resources>
