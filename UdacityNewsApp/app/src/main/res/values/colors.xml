@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--<resources>
-	<color name="colorPrimary">#3F51B5</color>
-	<color name="colorPrimaryDark">#303F9F</color>
-	<color name="colorAccent">#FF4081</color>
-</resources>-->
-
 <resources>
 	<color name="colorPrimary">#007CAF</color>
 	<color name="colorPrimaryDark">#025C81</color>
 	<color name="colorAccent">#A5DAF1</color>
 	<color name="colorTextPrimary">#7DCDF3</color>
 	<color name="colorTextSecondary">#8F8F8F</color>
-	
-	<color name="primaryText">#5c6268</color>
-	<color name="secondaryText">#8F8F8F</color>
 	<color name="timeText">#F6F4636A</color>
 	<color name="colorBackground">#F7F7F7</color>
 	<color name="colorLine">#A5DAF1</color>
